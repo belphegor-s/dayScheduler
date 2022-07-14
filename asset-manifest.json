@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dayScheduler/static/css/main.733e2204.css",
+    "main.js": "/dayScheduler/static/js/main.f73765a2.js",
+    "static/media/wallpaper.jpg": "/dayScheduler/static/media/wallpaper.c73687806e53c085bee9.jpg",
+    "index.html": "/dayScheduler/index.html",
+    "main.733e2204.css.map": "/dayScheduler/static/css/main.733e2204.css.map",
+    "main.f73765a2.js.map": "/dayScheduler/static/js/main.f73765a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.733e2204.css",
+    "static/js/main.f73765a2.js"
+  ]
+}
